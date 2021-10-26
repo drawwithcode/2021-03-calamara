@@ -1,0 +1,35 @@
+{
+  "playlist": [
+    {
+      "titolo": "Beautiful World",
+      "autore": "Utada Hikaru",
+      "durata": "0:59",
+      "cover": "./assets/beautiful.jpg",
+      "filemusic": "./assets/beautiful.mp3"
+    },
+
+    {
+      "titolo": "Yoru Ni Kakeru",
+      "autore": "YOASOBI",
+      "durata": "1:03",
+      "cover": "./assets/yoasobi.jpg",
+      "filemusic": "./assets/yoasobi.mp3"
+    },
+
+    {
+      "titolo": "FLY HIGH!!",
+      "autore": "BURNOUT SYNDROMES",
+      "durata": "0:56",
+      "cover": "./assets/fly.jpg",
+      "filemusic": "./assets/fly.mp3"
+    },
+
+    {
+      "titolo": "Megalovania",
+      "autore": "Toby Fox",
+      "durata": "2:21",
+      "cover": "./assets/megalovania.jpg",
+      "filemusic": "./assets/megalovania.mp3"
+    }
+  ]
+}
